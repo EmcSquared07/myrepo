@@ -1,2 +1,2 @@
 # myrepo
- Just trying
+ Just trying. I am a newbie here in Github
